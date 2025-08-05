@@ -1,0 +1,2 @@
+# getmappy
+getmappy public folder
